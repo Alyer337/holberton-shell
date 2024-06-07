@@ -1,2 +1,2 @@
 #!/bin/bash
-mv -v copy files beginning with an uppercase /tmp/u
+mv *[A-Z]* /tmp/u
