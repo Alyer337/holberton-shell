@@ -1,2 +1,2 @@
 #!/bin/bash
-nano hello ^s ^x ^x ^x ^x
+echo > 'hello'
