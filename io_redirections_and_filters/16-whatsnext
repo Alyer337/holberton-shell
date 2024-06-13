@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -A -c 3 root /ect/passwd | wc -l
+grep root -A 3 /ect/passwd
