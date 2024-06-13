@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -n 1 iacta_duplicate
+tail -n 1 >> iacta
